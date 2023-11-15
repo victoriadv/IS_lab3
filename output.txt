@@ -1,0 +1,306 @@
+Gen: 0
+Gen: 1
+Gen: 2
+Gen: 3
+Gen: 4
+Gen: 5
+Gen: 6
+Gen: 7
+Gen: 8
+Gen: 9
+Gen: 10
+Gen: 11
+Gen: 12
+Gen: 13
+Gen: 14
+Gen: 15
+Gen: 16
+Gen: 17
+Gen: 18
+Gen: 19
+Gen: 20
+Gen: 21
+Gen: 22
+Gen: 23
+Gen: 24
+Gen: 25
+Gen: 26
+Gen: 27
+Gen: 28
+Gen: 29
+Gen: 30
+Gen: 31
+Gen: 32
+Gen: 33
+Gen: 34
+Gen: 35
+Gen: 36
+Gen: 37
+Gen: 38
+Gen: 39
+Gen: 40
+Gen: 41
+Gen: 42
+Gen: 43
+Gen: 44
+Gen: 45
+Gen: 46
+Gen: 47
+Gen: 48
+Gen: 49
+Gen: 50
+Gen: 51
+Gen: 52
+Gen: 53
+Gen: 54
+Gen: 55
+Gen: 56
+Gen: 57
+Gen: 58
+Gen: 59
+Gen: 60
+Gen: 61
+Gen: 62
+Gen: 63
+Gen: 64
+Gen: 65
+Gen: 66
+Gen: 67
+Gen: 68
+Gen: 69
+Gen: 70
+Gen: 71
+Gen: 72
+Gen: 73
+Gen: 74
+Gen: 75
+Gen: 76
+Gen: 77
+Gen: 78
+Gen: 79
+Gen: 80
+Gen: 81
+Gen: 82
+Gen: 83
+Gen: 84
+Gen: 85
+Gen: 86
+Gen: 87
+Gen: 88
+Gen: 89
+Gen: 90
+Gen: 91
+Gen: 92
+Gen: 93
+Gen: 94
+Gen: 95
+Gen: 96
+Gen: 97
+Gen: 98
+Gen: 99
+Done!
+
+┌─────────┬─────────────┬────────┬────────────┬────────────────────┬────────────────────┐
+│ (index) │     Day     │ Lesson │   Group    │      Subject       │      Teacher       │
+├─────────┼─────────────┼────────┼────────────┼────────────────────┼────────────────────┤
+│    0    │  'Monday'   │  '1'   │ '"Group1"' │ 'Computer Science' │   '"Eva Brown"'    │
+│    1    │  'Monday'   │  '2'   │ '"Group1"' │       'Math'       │    '"John Doe"'    │
+│    2    │  'Monday'   │  '3'   │ '"Group1"' │       'Math'       │    '"John Doe"'    │
+│    3    │  'Monday'   │  '4'   │ '"Group1"' │   'Programming'    │   '"Harper Lee"'   │
+│    4    │  'Monday'   │  '5'   │ '"Group1"' │ 'Computer Science' │   '"Harper Lee"'   │
+│    5    │  'Monday'   │  '6'   │ '"Group1"' │       'Math'       │    '"John Doe"'    │
+│    6    │  'Monday'   │  '7'   │ '"Group1"' │       'Math'       │    '"John Doe"'    │
+│    7    │  'Monday'   │  '8'   │ '"Group1"' │ 'Computer Science' │   '"Eva Brown"'    │
+│    8    │  'Monday'   │  '9'   │ '"Group1"' │     'Physics'      │ '"James Robinson"' │
+│    9    │  'Monday'   │  '10'  │ '"Group1"' │     'Physics'      │    '"John Doe"'    │
+│   10    │  'Tuesday'  │  '1'   │ '"Group1"' │       'Math'       │    '"John Doe"'    │
+│   11    │  'Tuesday'  │  '2'   │ '"Group1"' │ 'Computer Science' │  '"Liam Wilson"'   │
+│   12    │  'Tuesday'  │  '3'   │ '"Group1"' │ 'Computer Science' │   '"Eva Brown"'    │
+│   13    │  'Tuesday'  │  '4'   │ '"Group1"' │ 'Computer Science' │   '"Eva Brown"'    │
+│   14    │  'Tuesday'  │  '5'   │ '"Group1"' │       'Math'       │    '"John Doe"'    │
+│   15    │  'Tuesday'  │  '6'   │ '"Group1"' │   'Programming'    │ '"Michael White"'  │
+│   16    │  'Tuesday'  │  '7'   │ '"Group1"' │ 'Computer Science' │  '"Liam Wilson"'   │
+│   17    │  'Tuesday'  │  '8'   │ '"Group1"' │     'Physics'      │ '"James Robinson"' │
+│   18    │  'Tuesday'  │  '9'   │ '"Group1"' │       'Math'       │  '"Emily Garcia"'  │
+│   19    │  'Tuesday'  │  '10'  │ '"Group1"' │       'Math'       │  '"Daniel Davis"'  │
+│   20    │ 'Wednesday' │  '1'   │ '"Group1"' │ 'Computer Science' │   '"Eva Brown"'    │
+│   21    │ 'Wednesday' │  '2'   │ '"Group1"' │ 'Computer Science' │  '"Liam Wilson"'   │
+│   22    │ 'Wednesday' │  '3'   │ '"Group1"' │   'Programming'    │   '"Harper Lee"'   │
+│   23    │ 'Wednesday' │  '4'   │ '"Group1"' │   'Programming'    │   '"Eva Brown"'    │
+│   24    │ 'Wednesday' │  '5'   │ '"Group1"' │     'Physics'      │    '"John Doe"'    │
+│   25    │ 'Wednesday' │  '6'   │ '"Group1"' │       'Math'       │  '"Emily Garcia"'  │
+│   26    │ 'Wednesday' │  '7'   │ '"Group1"' │       'Math'       │  '"Daniel Davis"'  │
+│   27    │ 'Wednesday' │  '8'   │ '"Group1"' │     'Physics'      │ '"James Robinson"' │
+│   28    │ 'Wednesday' │  '9'   │ '"Group1"' │       'Math'       │    '"John Doe"'    │
+│   29    │ 'Wednesday' │  '10'  │ '"Group1"' │   'Programming'    │ '"Michael White"'  │
+│   30    │ 'Thursday'  │  '1'   │ '"Group1"' │ 'Computer Science' │  '"Liam Wilson"'   │
+│   31    │ 'Thursday'  │  '2'   │ '"Group1"' │ 'Computer Science' │   '"Harper Lee"'   │
+│   32    │ 'Thursday'  │  '3'   │ '"Group1"' │     'Physics'      │    '"John Doe"'    │
+│   33    │ 'Thursday'  │  '4'   │ '"Group1"' │       'Math'       │    '"John Doe"'    │
+│   34    │ 'Thursday'  │  '5'   │ '"Group1"' │ 'Computer Science' │   '"Eva Brown"'    │
+│   35    │ 'Thursday'  │  '6'   │ '"Group1"' │     'Physics'      │ '"James Robinson"' │
+│   36    │ 'Thursday'  │  '7'   │ '"Group1"' │ 'Computer Science' │  '"Liam Wilson"'   │
+│   37    │ 'Thursday'  │  '8'   │ '"Group1"' │   'Programming'    │ '"Michael White"'  │
+│   38    │ 'Thursday'  │  '9'   │ '"Group1"' │   'Programming'    │   '"Eva Brown"'    │
+│   39    │ 'Thursday'  │  '10'  │ '"Group1"' │       'Math'       │    '"John Doe"'    │
+│   40    │  'Friday'   │  '1'   │ '"Group1"' │     'Physics'      │    '"John Doe"'    │
+│   41    │  'Friday'   │  '2'   │ '"Group1"' │ 'Computer Science' │  '"Liam Wilson"'   │
+│   42    │  'Friday'   │  '3'   │ '"Group1"' │     'Physics'      │ '"James Robinson"' │
+│   43    │  'Friday'   │  '4'   │ '"Group1"' │     'Physics'      │    '"John Doe"'    │
+│   44    │  'Friday'   │  '5'   │ '"Group1"' │ 'Computer Science' │   '"Harper Lee"'   │
+│   45    │  'Friday'   │  '6'   │ '"Group1"' │     'Physics'      │    '"John Doe"'    │
+│   46    │  'Friday'   │  '7'   │ '"Group1"' │     'Physics'      │    '"John Doe"'    │
+│   47    │  'Friday'   │  '8'   │ '"Group1"' │   'Programming'    │   '"Eva Brown"'    │
+│   48    │  'Friday'   │  '9'   │ '"Group1"' │ 'Computer Science' │   '"Harper Lee"'   │
+│   49    │  'Friday'   │  '10'  │ '"Group1"' │ 'Computer Science' │   '"Harper Lee"'   │
+│   50    │  'Monday'   │  '1'   │ '"Group2"' │   'Programming'    │ '"Michael White"'  │
+│   51    │  'Monday'   │  '2'   │ '"Group2"' │   'Programming'    │   '"Eva Brown"'    │
+│   52    │  'Monday'   │  '3'   │ '"Group2"' │   'Programming'    │   '"Harper Lee"'   │
+│   53    │  'Monday'   │  '4'   │ '"Group2"' │   'Programming'    │   '"Harper Lee"'   │
+│   54    │  'Monday'   │  '5'   │ '"Group2"' │       'Math'       │  '"Emily Garcia"'  │
+│   55    │  'Monday'   │  '6'   │ '"Group2"' │   'Programming'    │   '"Harper Lee"'   │
+│   56    │  'Monday'   │  '7'   │ '"Group2"' │       'Math'       │  '"Emily Garcia"'  │
+│   57    │  'Monday'   │  '8'   │ '"Group2"' │       'Math'       │    '"John Doe"'    │
+│   58    │  'Monday'   │  '9'   │ '"Group2"' │       'Math'       │  '"Emily Garcia"'  │
+│   59    │  'Monday'   │  '10'  │ '"Group2"' │     'Physics'      │    '"John Doe"'    │
+│   60    │  'Tuesday'  │  '1'   │ '"Group2"' │ 'Computer Science' │  '"Liam Wilson"'   │
+│   61    │  'Tuesday'  │  '2'   │ '"Group2"' │       'Math'       │  '"Emily Garcia"'  │
+│   62    │  'Tuesday'  │  '3'   │ '"Group2"' │   'Programming'    │   '"Harper Lee"'   │
+│   63    │  'Tuesday'  │  '4'   │ '"Group2"' │       'Math'       │    '"John Doe"'    │
+│   64    │  'Tuesday'  │  '5'   │ '"Group2"' │ 'Computer Science' │   '"Eva Brown"'    │
+│   65    │  'Tuesday'  │  '6'   │ '"Group2"' │ 'Computer Science' │   '"Eva Brown"'    │
+│   66    │  'Tuesday'  │  '7'   │ '"Group2"' │       'Math'       │  '"Emily Garcia"'  │
+│   67    │  'Tuesday'  │  '8'   │ '"Group2"' │       'Math'       │    '"John Doe"'    │
+│   68    │  'Tuesday'  │  '9'   │ '"Group2"' │   'Programming'    │ '"Michael White"'  │
+│   69    │  'Tuesday'  │  '10'  │ '"Group2"' │       'Math'       │    '"John Doe"'    │
+│   70    │ 'Wednesday' │  '1'   │ '"Group2"' │ 'Computer Science' │   '"Eva Brown"'    │
+│   71    │ 'Wednesday' │  '2'   │ '"Group2"' │ 'Computer Science' │   '"Harper Lee"'   │
+│   72    │ 'Wednesday' │  '3'   │ '"Group2"' │   'Programming'    │   '"Harper Lee"'   │
+│   73    │ 'Wednesday' │  '4'   │ '"Group2"' │ 'Computer Science' │   '"Harper Lee"'   │
+│   74    │ 'Wednesday' │  '5'   │ '"Group2"' │ 'Computer Science' │  '"Liam Wilson"'   │
+│   75    │ 'Wednesday' │  '6'   │ '"Group2"' │   'Programming'    │   '"Harper Lee"'   │
+│   76    │ 'Wednesday' │  '7'   │ '"Group2"' │     'Physics'      │ '"James Robinson"' │
+│   77    │ 'Wednesday' │  '8'   │ '"Group2"' │   'Programming'    │ '"Michael White"'  │
+│   78    │ 'Wednesday' │  '9'   │ '"Group2"' │       'Math'       │    '"John Doe"'    │
+│   79    │ 'Wednesday' │  '10'  │ '"Group2"' │   'Programming'    │   '"Harper Lee"'   │
+│   80    │ 'Thursday'  │  '1'   │ '"Group2"' │ 'Computer Science' │  '"Liam Wilson"'   │
+│   81    │ 'Thursday'  │  '2'   │ '"Group2"' │       'Math'       │  '"Daniel Davis"'  │
+│   82    │ 'Thursday'  │  '3'   │ '"Group2"' │ 'Computer Science' │   '"Harper Lee"'   │
+│   83    │ 'Thursday'  │  '4'   │ '"Group2"' │   'Programming'    │   '"Harper Lee"'   │
+│   84    │ 'Thursday'  │  '5'   │ '"Group2"' │   'Programming'    │   '"Eva Brown"'    │
+│   85    │ 'Thursday'  │  '6'   │ '"Group2"' │   'Programming'    │ '"Michael White"'  │
+│   86    │ 'Thursday'  │  '7'   │ '"Group2"' │     'Physics'      │    '"John Doe"'    │
+│   87    │ 'Thursday'  │  '8'   │ '"Group2"' │       'Math'       │  '"Daniel Davis"'  │
+│   88    │ 'Thursday'  │  '9'   │ '"Group2"' │       'Math'       │    '"John Doe"'    │
+│   89    │ 'Thursday'  │  '10'  │ '"Group2"' │   'Programming'    │   '"Harper Lee"'   │
+│   90    │  'Friday'   │  '1'   │ '"Group2"' │ 'Computer Science' │   '"Harper Lee"'   │
+│   91    │  'Friday'   │  '2'   │ '"Group2"' │ 'Computer Science' │   '"Harper Lee"'   │
+│   92    │  'Friday'   │  '3'   │ '"Group2"' │       'Math'       │  '"Emily Garcia"'  │
+│   93    │  'Friday'   │  '4'   │ '"Group2"' │   'Programming'    │   '"Eva Brown"'    │
+│   94    │  'Friday'   │  '5'   │ '"Group2"' │     'Physics'      │    '"John Doe"'    │
+│   95    │  'Friday'   │  '6'   │ '"Group2"' │     'Physics'      │ '"James Robinson"' │
+│   96    │  'Friday'   │  '7'   │ '"Group2"' │ 'Computer Science' │  '"Liam Wilson"'   │
+│   97    │  'Friday'   │  '8'   │ '"Group2"' │     'Physics'      │    '"John Doe"'    │
+│   98    │  'Friday'   │  '9'   │ '"Group2"' │       'Math'       │    '"John Doe"'    │
+│   99    │  'Friday'   │  '10'  │ '"Group2"' │ 'Computer Science' │   '"Harper Lee"'   │
+│   100   │  'Monday'   │  '1'   │ '"Group3"' │       'Math'       │    '"John Doe"'    │
+│   101   │  'Monday'   │  '2'   │ '"Group3"' │     'Physics'      │ '"James Robinson"' │
+│   102   │  'Monday'   │  '3'   │ '"Group3"' │       'Math'       │  '"Daniel Davis"'  │
+│   103   │  'Monday'   │  '4'   │ '"Group3"' │   'Programming'    │   '"Harper Lee"'   │
+│   104   │  'Monday'   │  '5'   │ '"Group3"' │     'Physics'      │ '"James Robinson"' │
+│   105   │  'Monday'   │  '6'   │ '"Group3"' │ 'Computer Science' │   '"Harper Lee"'   │
+│   106   │  'Monday'   │  '7'   │ '"Group3"' │       'Math'       │    '"John Doe"'    │
+│   107   │  'Monday'   │  '8'   │ '"Group3"' │     'Physics'      │    '"John Doe"'    │
+│   108   │  'Monday'   │  '9'   │ '"Group3"' │       'Math'       │  '"Emily Garcia"'  │
+│   109   │  'Monday'   │  '10'  │ '"Group3"' │ 'Computer Science' │   '"Harper Lee"'   │
+│   110   │  'Tuesday'  │  '1'   │ '"Group3"' │ 'Computer Science' │   '"Eva Brown"'    │
+│   111   │  'Tuesday'  │  '2'   │ '"Group3"' │       'Math'       │  '"Emily Garcia"'  │
+│   112   │  'Tuesday'  │  '3'   │ '"Group3"' │     'Physics'      │ '"James Robinson"' │
+│   113   │  'Tuesday'  │  '4'   │ '"Group3"' │   'Programming'    │   '"Eva Brown"'    │
+│   114   │  'Tuesday'  │  '5'   │ '"Group3"' │ 'Computer Science' │   '"Eva Brown"'    │
+│   115   │  'Tuesday'  │  '6'   │ '"Group3"' │     'Physics'      │ '"James Robinson"' │
+│   116   │  'Tuesday'  │  '7'   │ '"Group3"' │ 'Computer Science' │   '"Eva Brown"'    │
+│   117   │  'Tuesday'  │  '8'   │ '"Group3"' │     'Physics'      │ '"James Robinson"' │
+│   118   │  'Tuesday'  │  '9'   │ '"Group3"' │ 'Computer Science' │   '"Eva Brown"'    │
+│   119   │  'Tuesday'  │  '10'  │ '"Group3"' │   'Programming'    │   '"Eva Brown"'    │
+│   120   │ 'Wednesday' │  '1'   │ '"Group3"' │ 'Computer Science' │   '"Harper Lee"'   │
+│   121   │ 'Wednesday' │  '2'   │ '"Group3"' │     'Physics'      │    '"John Doe"'    │
+│   122   │ 'Wednesday' │  '3'   │ '"Group3"' │   'Programming'    │   '"Eva Brown"'    │
+│   123   │ 'Wednesday' │  '4'   │ '"Group3"' │ 'Computer Science' │   '"Eva Brown"'    │
+│   124   │ 'Wednesday' │  '5'   │ '"Group3"' │       'Math'       │  '"Emily Garcia"'  │
+│   125   │ 'Wednesday' │  '6'   │ '"Group3"' │     'Physics'      │    '"John Doe"'    │
+│   126   │ 'Wednesday' │  '7'   │ '"Group3"' │       'Math'       │    '"John Doe"'    │
+│   127   │ 'Wednesday' │  '8'   │ '"Group3"' │ 'Computer Science' │   '"Harper Lee"'   │
+│   128   │ 'Wednesday' │  '9'   │ '"Group3"' │   'Programming'    │ '"Michael White"'  │
+│   129   │ 'Wednesday' │  '10'  │ '"Group3"' │ 'Computer Science' │   '"Harper Lee"'   │
+│   130   │ 'Thursday'  │  '1'   │ '"Group3"' │       'Math'       │  '"Emily Garcia"'  │
+│   131   │ 'Thursday'  │  '2'   │ '"Group3"' │       'Math'       │  '"Daniel Davis"'  │
+│   132   │ 'Thursday'  │  '3'   │ '"Group3"' │       'Math'       │    '"John Doe"'    │
+│   133   │ 'Thursday'  │  '4'   │ '"Group3"' │     'Physics'      │    '"John Doe"'    │
+│   134   │ 'Thursday'  │  '5'   │ '"Group3"' │       'Math'       │  '"Daniel Davis"'  │
+│   135   │ 'Thursday'  │  '6'   │ '"Group3"' │ 'Computer Science' │   '"Harper Lee"'   │
+│   136   │ 'Thursday'  │  '7'   │ '"Group3"' │   'Programming'    │   '"Eva Brown"'    │
+│   137   │ 'Thursday'  │  '8'   │ '"Group3"' │ 'Computer Science' │  '"Liam Wilson"'   │
+│   138   │ 'Thursday'  │  '9'   │ '"Group3"' │ 'Computer Science' │   '"Harper Lee"'   │
+│   139   │ 'Thursday'  │  '10'  │ '"Group3"' │ 'Computer Science' │  '"Liam Wilson"'   │
+│   140   │  'Friday'   │  '1'   │ '"Group3"' │       'Math'       │  '"Daniel Davis"'  │
+│   141   │  'Friday'   │  '2'   │ '"Group3"' │ 'Computer Science' │   '"Eva Brown"'    │
+│   142   │  'Friday'   │  '3'   │ '"Group3"' │     'Physics'      │ '"James Robinson"' │
+│   143   │  'Friday'   │  '4'   │ '"Group3"' │       'Math'       │  '"Emily Garcia"'  │
+│   144   │  'Friday'   │  '5'   │ '"Group3"' │     'Physics'      │    '"John Doe"'    │
+│   145   │  'Friday'   │  '6'   │ '"Group3"' │   'Programming'    │   '"Harper Lee"'   │
+│   146   │  'Friday'   │  '7'   │ '"Group3"' │     'Physics'      │ '"James Robinson"' │
+│   147   │  'Friday'   │  '8'   │ '"Group3"' │ 'Computer Science' │  '"Liam Wilson"'   │
+│   148   │  'Friday'   │  '9'   │ '"Group3"' │     'Physics'      │    '"John Doe"'    │
+│   149   │  'Friday'   │  '10'  │ '"Group3"' │   'Programming'    │   '"Eva Brown"'    │
+│   150   │  'Monday'   │  '1'   │ '"Group4"' │ 'Computer Science' │  '"Liam Wilson"'   │
+│   151   │  'Monday'   │  '2'   │ '"Group4"' │     'Physics'      │    '"John Doe"'    │
+│   152   │  'Monday'   │  '3'   │ '"Group4"' │   'Programming'    │ '"Michael White"'  │
+│   153   │  'Monday'   │  '4'   │ '"Group4"' │     'Physics'      │    '"John Doe"'    │
+│   154   │  'Monday'   │  '5'   │ '"Group4"' │   'Programming'    │   '"Harper Lee"'   │
+│   155   │  'Monday'   │  '6'   │ '"Group4"' │     'Physics'      │    '"John Doe"'    │
+│   156   │  'Monday'   │  '7'   │ '"Group4"' │ 'Computer Science' │  '"Liam Wilson"'   │
+│   157   │  'Monday'   │  '8'   │ '"Group4"' │ 'Computer Science' │   '"Eva Brown"'    │
+│   158   │  'Monday'   │  '9'   │ '"Group4"' │       'Math'       │    '"John Doe"'    │
+│   159   │  'Monday'   │  '10'  │ '"Group4"' │ 'Computer Science' │   '"Harper Lee"'   │
+│   160   │  'Tuesday'  │  '1'   │ '"Group4"' │ 'Computer Science' │   '"Harper Lee"'   │
+│   161   │  'Tuesday'  │  '2'   │ '"Group4"' │   'Programming'    │   '"Eva Brown"'    │
+│   162   │  'Tuesday'  │  '3'   │ '"Group4"' │     'Physics'      │    '"John Doe"'    │
+│   163   │  'Tuesday'  │  '4'   │ '"Group4"' │ 'Computer Science' │  '"Liam Wilson"'   │
+│   164   │  'Tuesday'  │  '5'   │ '"Group4"' │ 'Computer Science' │   '"Harper Lee"'   │
+│   165   │  'Tuesday'  │  '6'   │ '"Group4"' │ 'Computer Science' │  '"Liam Wilson"'   │
+│   166   │  'Tuesday'  │  '7'   │ '"Group4"' │       'Math'       │  '"Emily Garcia"'  │
+│   167   │  'Tuesday'  │  '8'   │ '"Group4"' │       'Math'       │  '"Daniel Davis"'  │
+│   168   │  'Tuesday'  │  '9'   │ '"Group4"' │     'Physics'      │    '"John Doe"'    │
+│   169   │  'Tuesday'  │  '10'  │ '"Group4"' │   'Programming'    │ '"Michael White"'  │
+│   170   │ 'Wednesday' │  '1'   │ '"Group4"' │       'Math'       │  '"Daniel Davis"'  │
+│   171   │ 'Wednesday' │  '2'   │ '"Group4"' │   'Programming'    │   '"Eva Brown"'    │
+│   172   │ 'Wednesday' │  '3'   │ '"Group4"' │     'Physics'      │    '"John Doe"'    │
+│   173   │ 'Wednesday' │  '4'   │ '"Group4"' │       'Math'       │  '"Daniel Davis"'  │
+│   174   │ 'Wednesday' │  '5'   │ '"Group4"' │   'Programming'    │   '"Harper Lee"'   │
+│   175   │ 'Wednesday' │  '6'   │ '"Group4"' │       'Math'       │  '"Daniel Davis"'  │
+│   176   │ 'Wednesday' │  '7'   │ '"Group4"' │   'Programming'    │   '"Harper Lee"'   │
+│   177   │ 'Wednesday' │  '8'   │ '"Group4"' │     'Physics'      │ '"James Robinson"' │
+│   178   │ 'Wednesday' │  '9'   │ '"Group4"' │       'Math'       │    '"John Doe"'    │
+│   179   │ 'Wednesday' │  '10'  │ '"Group4"' │     'Physics'      │    '"John Doe"'    │
+│   180   │ 'Thursday'  │  '1'   │ '"Group4"' │ 'Computer Science' │  '"Liam Wilson"'   │
+│   181   │ 'Thursday'  │  '2'   │ '"Group4"' │   'Programming'    │   '"Harper Lee"'   │
+│   182   │ 'Thursday'  │  '3'   │ '"Group4"' │   'Programming'    │ '"Michael White"'  │
+│   183   │ 'Thursday'  │  '4'   │ '"Group4"' │ 'Computer Science' │   '"Eva Brown"'    │
+│   184   │ 'Thursday'  │  '5'   │ '"Group4"' │   'Programming'    │   '"Eva Brown"'    │
+│   185   │ 'Thursday'  │  '6'   │ '"Group4"' │   'Programming'    │   '"Harper Lee"'   │
+│   186   │ 'Thursday'  │  '7'   │ '"Group4"' │       'Math'       │    '"John Doe"'    │
+│   187   │ 'Thursday'  │  '8'   │ '"Group4"' │     'Physics'      │    '"John Doe"'    │
+│   188   │ 'Thursday'  │  '9'   │ '"Group4"' │       'Math'       │    '"John Doe"'    │
+│   189   │ 'Thursday'  │  '10'  │ '"Group4"' │       'Math'       │    '"John Doe"'    │
+│   190   │  'Friday'   │  '1'   │ '"Group4"' │   'Programming'    │ '"Michael White"'  │
+│   191   │  'Friday'   │  '2'   │ '"Group4"' │   'Programming'    │   '"Harper Lee"'   │
+│   192   │  'Friday'   │  '3'   │ '"Group4"' │       'Math'       │  '"Daniel Davis"'  │
+│   193   │  'Friday'   │  '4'   │ '"Group4"' │ 'Computer Science' │  '"Liam Wilson"'   │
+│   194   │  'Friday'   │  '5'   │ '"Group4"' │       'Math'       │  '"Emily Garcia"'  │
+│   195   │  'Friday'   │  '6'   │ '"Group4"' │     'Physics'      │ '"James Robinson"' │
+│   196   │  'Friday'   │  '7'   │ '"Group4"' │   'Programming'    │   '"Harper Lee"'   │
+│   197   │  'Friday'   │  '8'   │ '"Group4"' │ 'Computer Science' │   '"Eva Brown"'    │
+│   198   │  'Friday'   │  '9'   │ '"Group4"' │       'Math'       │  '"Daniel Davis"'  │
+│   199   │  'Friday'   │  '10'  │ '"Group4"' │     'Physics'      │ '"James Robinson"' │
+└─────────┴─────────────┴────────┴────────────┴────────────────────┴────────────────────┘
